@@ -9,7 +9,7 @@ Rythm has a bunch of features packed into it to make sure the end user has the b
 ---
 Rythm has the ability to play songs in your voice channel from sources such as **YouTube**, **Spotify** and **Soundcloud**. On top of being able to play songs, it can also play playlists which then get added to a queue system. Moreover, Rythm is also capable of searching for a song via your query and returning the top 10 results.
 
-![Play&Search](/img/docs/features/play-search.png)
+![P&بحث](/img/docs/features/play-search.png)
 
 ## 📃 Lyrics
 ---
